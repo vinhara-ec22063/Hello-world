@@ -1,4 +1,4 @@
 print ("Hello")
 print ("Good morning")
-name="M K S Vinhara"
-print(name)
+name=input("Enter your name: ")
+print("Welcome ",name)
